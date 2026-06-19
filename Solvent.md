@@ -5,7 +5,7 @@
 |GHK-Cu|	PBS / Saline |	BAC water |	Copper-bound peptide; buffered environment helps stability and clarity.|
 |Wolverine Blend|	PBS / Saline |	BAC water |	Blend of BPC-157 + Tb4; PBS is the safer default.|
 |GLOW Blend |	PBS / Saline	| BAC water |	Contains GHK-Cu, so PBS is preferred.|
-|ARA-290|	PBS	Saline | only if needed	Sensitive peptide; neutral buffer is strongly preferred.|
+|ARA-290|	PBS |	Saline | only if needed	Sensitive peptide; neutral buffer is strongly preferred.|
 |KPV|	PBS / Saline |	BAC water |	Usually straightforward; PBS may improve consistency.|
 |CJC-1295 no DAC|	Saline |	BAC water |	Generally easy to dissolve.|
 |Ipamorelin|	Saline |	BAC water |	Straightforward reconstitution profile.|
