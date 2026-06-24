@@ -16,7 +16,7 @@
 | Triptorelin Acetate/GnRH Triptorelin | Inhibits gonadotropins; treats prostate cancer/endometriosis |
 | Selank | Anti-anxiety; immune modulator; improves cognition |
 | Oxytocin Acetate | Induces uterine contractions; stimulates lactation; enhances social bonding |
-| [Epithalon](N-AcetylEpitalonAmidate_vs_Epitalon.md) | Extends telomeres (anti-aging); immune modulator; improves sleep/energy |
+| [Epitalon](N-AcetylEpitalonAmidate_vs_Epitalon.md) | Extends telomeres (anti-aging); immune modulator; improves sleep/energy |
 | BPC 157 | Accelerates tissue repair (muscle, tendon, gut); reduces inflammation |
 | BPC 2mg + TB 2mg | Combines BPC 157 (repair) with TB (likely metabolic support); enhances recovery/function |
 | BPC 5mg + TB 5mg | Combines BPC 157 (repair) with TB (likely metabolic support); enhances recovery/function |
