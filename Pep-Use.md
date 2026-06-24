@@ -31,7 +31,7 @@
 | CJC-1295 Whitout DAC | Stimulates growth hormone release; enhances muscle growth; anti-aging |
 | CJC-1295 without DAC 5mg + IPA 5mg | Stimulates growth hormone release (via CJC-1295); IPA likely enhances metabolic/functional effects |
 | CJC-1295 With DAC | Long-acting growth hormone secretagogue; boosts muscle mass, reduces fat |
-| TB500(Thymosin B4 Acetate） | Accelerates tissue repair (muscle, tendon); reduces inflammation |
+| [TB500(Thymosin B4 Acetate)](TB-500_Variants.md) | Accelerates tissue repair (muscle, tendon); reduces inflammation |
 | MGF | Promotes muscle cell repair/growth; targets damaged muscle tissue |
 | PEG MGF | Long-acting MGF; prolongs muscle repair/growth effects |
 | Sermorelin Acetate | Stimulates growth hormone secretion; anti-aging, muscle support |
